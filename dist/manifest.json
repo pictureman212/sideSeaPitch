@@ -1,0 +1,40 @@
+{
+  "main-legacy.js": {
+    "file": "assets/main-legacy.d816a954.js",
+    "src": "main-legacy.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-legacy.f05cacf9.js"
+    ],
+    "assets": [
+      "assets/treeRings.1f98603f.png",
+      "assets/article_bg_02.9ce42df0.jpg"
+    ]
+  },
+  "_vendor-legacy.f05cacf9.js": {
+    "file": "assets/vendor-legacy.f05cacf9.js"
+  },
+  "../vite/legacy-polyfills": {
+    "file": "assets/polyfills-legacy.07477394.js",
+    "src": "../vite/legacy-polyfills",
+    "isEntry": true
+  },
+  "main.js": {
+    "file": "assets/main.b4ea2f06.js",
+    "src": "main.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor.7ae6ae8d.js"
+    ],
+    "css": [
+      "assets/main.18eeec32.css"
+    ],
+    "assets": [
+      "assets/treeRings.1f98603f.png",
+      "assets/article_bg_02.9ce42df0.jpg"
+    ]
+  },
+  "_vendor.7ae6ae8d.js": {
+    "file": "assets/vendor.7ae6ae8d.js"
+  }
+}

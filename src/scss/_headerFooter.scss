@@ -1,0 +1,28 @@
+/* 
+HEADER LOGO 
+*/
+#logo {
+  height: 75px;
+}
+
+/*
+HEADER DROP DOWN NAVIGATION
+*/
+.dropdown-menu {
+  background-color: $primary;
+
+  li:hover {
+    background-color: $primary;
+  }
+
+  li a {
+    color: #fff;
+  }
+}
+
+/*
+Footer nav color
+*/
+.nav-link {
+  color: $secondary;
+}

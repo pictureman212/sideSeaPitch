@@ -1,0 +1,26 @@
+/* 
+MAIN CONTENT CONTAINERS 
+*/
+
+.main-article-container {
+  height: 100vh;
+}
+
+.main-article-content {
+  height: 100vh;
+}
+
+/* 
+MAIN CONTENT BACKGROUND IMAGE STYLING 
+*/
+#main {
+  background-image: url('@images/treeRings.png');
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* 
+END MAIN CONTENT BACKGROUND IMAGE STYLING 
+*/
