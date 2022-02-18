@@ -27,18 +27,7 @@
       <img src="<?php echo (get_sub_field('slide'))?>
    " class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item ">
-      <img src="<?php echo (get_sub_field('slide'))?>
-   " class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item ">
-      <img src="<?php echo (get_sub_field('slide'))?>
-   " class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item ">
-      <img src="<?php echo (get_sub_field('slide'))?>
-   " class="d-block w-100" alt="...">
-    </div>
+  
     
   </div>
 </div>
